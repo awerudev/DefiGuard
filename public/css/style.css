@@ -739,6 +739,13 @@ hr.border {
     text-align: center;
 }
 
+.team_img img {
+    width: 257px;
+    height: 257px;
+    object-fit: cover;
+    border-radius: 128px;
+}
+
 .client_name {
     width: 100%;
     font-size: 20px;
